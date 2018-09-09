@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "dbConfig": {
+      "database": "GermanenessOAuth",
+      "host": "localhost",
+      "user_name": "postgres",
+      "password": "Austere@123",
+      "port": 5432
+    }
+  }
+}

@@ -1,7 +1,7 @@
 import unittest
 import sys
 
-sys.path.append('D:\Workouts\Python\Germaneness\Samples\Example1')
+sys.path.append('.\\')
 
 from Database import PostgresConnection, Postgres, Query
 

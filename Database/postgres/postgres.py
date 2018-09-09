@@ -6,7 +6,7 @@ class Postgres(Db):
 
     def __init__(self, connection):
         self.cur = None
-        super(connection)
+        super().__init__(connection)
 
     def __execute__(self, query):
         try:
